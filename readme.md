@@ -6,7 +6,8 @@
 - 질문 리스트는 회의를 통해 선정되었으며, 필요 시 변경될 수 있습니다.
 <br/>
 
-## 📖 진행 방식
+
+## 📖 이전 진행 방식(~24.08.01)
 
 - 해당 저장소를 클론받아 GitHub 아이디로 브랜치를 생성합니다.
 - 이전 회의에서 정한 질문들에 대해 답변을 정리해 옵니다.
@@ -15,6 +16,35 @@
 - 매주 월요일과 목요일 21시 디스코드에 모여 준비한 답변을 공유합니다.
 - 1~2시간 내외로 질의응답 시간을 갖습니다.
 <br/>
+
+## 📖 진행 방식
+
+- `면접관 3`, `응시자 1`.
+- 면접은 한 사람 당 10분(임시)동안 진행합니다.
+  - 문제의 개수는 남은 시간이나 답변 내용에 따라 유동적으로 조정합니다.
+- 모든 인원이 돌아가면서 면접을 보도록 합니다.
+- 면접을 마친 후 체크리스트에 의거해 5분간 회고를 진행합니다.
+- 총 60분 간의 면접 스터디를 마친 후 10~20분 간의 아래 항목을 참고하여 전체 회고를 진행합니다.
+  - 다음 면접 질문 범위 및 번호 매핑
+  - 회의록 작성
+  - 알고리즘 다음 문제 선별
+
+
+
+<br/>
+
+
+## 🎯 질문 선별 방법
+- 매 스터디마다 면접 질문의 범위를 정합니다.
+- 질문의 범위는 이전 범위에 누적됩니다.
+    - ex) `Day 1` JS 문법 1-5, `Day 2` JS 문법 1-10
+- 문제에 번호를 매핑해 랜덤으로 질문을 뽑습니다.
+    - 매핑 후 랜덤으로 질문을 뽑는 과정은 추후 스크립트화합니다.
+- 면접관 중 한 명이 방송을 키고, 나머지 두 명의 면접관은 방송을 보면서 질문을 뽑습니다.
+
+
+<br />
+
 
 ## 💬 커밋 컨벤션
 
@@ -27,6 +57,6 @@
 
 ## 📝 목차
 
-| <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1678672480/noticon/qblxu9uo0uuitucuzhjy.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570946287/noticon/qgdiv5ctkcneujidjuv1.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1590043914/noticon/xe5nasyjil6mn6vk8c4s.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557331/noticon/d5hqar2idkoefh6fjtpu.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1575060204/noticon/mwrtauxrrpjdty7hgohx.svg" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570008254/noticon/loyafv0gqkk2xrc2dtpn.png" width="50" height="50"> |
+| <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570946287/noticon/qgdiv5ctkcneujidjuv1.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1590043914/noticon/xe5nasyjil6mn6vk8c4s.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566557331/noticon/d5hqar2idkoefh6fjtpu.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566879300/noticon/fvty9lnsbjol5lq9u3by.svg" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1575060204/noticon/mwrtauxrrpjdty7hgohx.svg" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913457/noticon/eh4d0dnic4n1neth3fui.png" width="50" height="50"> | <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570008254/noticon/loyafv0gqkk2xrc2dtpn.png" width="50" height="50"> |
 | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                   Html                                                                    |                                                                    CSS                                                                    |                                                                    JS                                                                     |                                                                Web/Browser                                                                |                                                                   React                                                                   |                                                                   Next                                                                    |                                                                    ETC                                                                    |                                                                    TS                                                                     |                                                                  Network                                                                  |
